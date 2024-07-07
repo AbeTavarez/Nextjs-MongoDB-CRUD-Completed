@@ -2,6 +2,8 @@
 
 ## Description
 
+This is the completed project repo, you can find the [starter repo here](https://github.com/AbeTavarez/NextJS-MongoDB-CRUD) and the YouTube Video [link here](https://youtu.be/B4IHety7ByI).
+
 This is a simple Todos App that was created to show how can we add full CRUD (Create, Read, Update and Delete) functionality to your NextJS Apps.
 
 >Note:
